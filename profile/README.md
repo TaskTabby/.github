@@ -1,4 +1,4 @@
-![Tabby Banner](https://github.com/TaskTabby/.github/blob/main/Banner2.png)
+![Tabby Banner](https://github.com/TaskTabby/.github/blob/main/Banner3.png)
 
 ## 👋😸 Welcome
 
