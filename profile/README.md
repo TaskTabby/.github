@@ -1,3 +1,5 @@
+![Tabby Banner](https://github.com/TaskTabby/.github/blob/main/Banner.png)
+
 ## 👋😸 Welcome
 
 If you have stumbled here, you are most likely interested in getting started with TaskTabby. Before you embark on your journey, we recommend reading a bit about us!
