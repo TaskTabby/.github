@@ -8,6 +8,9 @@ If you have stumbled here, you are most likely interested in getting started wit
 
 We are a small group of people with all sorts of backgrounds. We have one core thing in common: striving to stay organized (and love for cats). We refer to ourselves as The TaskTabby Team and are responsible for the basis of the app. We also encourage any pull requests if you want to give us a helping hand (or paw). 
 
+## Open Source
+We plan to make as much of Task Tabby open source. There are a few minor exceptions, such as the authentication server due to well, security.
+
 ## Our goals
 
 We have a few goals in mind for developing TaskTabby:
