@@ -18,6 +18,6 @@ We have a few goals in mind for developing TaskTabby:
 
 ## How it works
 
-The app consists of different productivity activities and utilities, and good productivity comes with good, well... goodies. You can use the money you earn to raise your own fleet of virtual cats! 
+The app consists of different productivity activities and utilities, and good productivity comes with good, well... goodies. You can use the money you earn to raise your own fleet of virtual cats! Also, enabling our browser addon will automatically put entertainment sites on "lockdown" when you have enabled "Focus Mode" in the app.
 
 **What are you waiting for? [Go start your productivity journey now!]()**
